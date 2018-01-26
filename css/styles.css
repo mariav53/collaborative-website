@@ -382,6 +382,12 @@ color:#393e3e;
   display: flex;
   align-items: center;
 }
+.footer-center a {
+	cursor: pointer;
+	color: white;
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+}
 .footer-right {
   position: relative;
   display: flex;
