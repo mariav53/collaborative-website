@@ -17,3 +17,9 @@ El contenido de la web deberá ser al menos:
 - Una breve biografía de cada una y cómo habéis llegado a Adalab
 - Describir qué tenéis en común como equipo (¿este curso de Adalab?) y cuáles son vuestras fortalezas y debilidades como equipo
 - Describir en qué consisten los roles que tenéis asignados durante el sprint “Hola Mundo” y qué miembro del equipo ocupa cada uno
+
+**Integrantes del equipo:**
+Eva Llorca
+Gloria Fernandez
+Laura navarro
+Maria Virginia Rivas
