@@ -19,7 +19,11 @@ El contenido de la web deberá ser al menos:
 - Describir en qué consisten los roles que tenéis asignados durante el sprint “Hola Mundo” y qué miembro del equipo ocupa cada uno
 
 **Integrantes del equipo:**
+
 Eva Llorca
+
 Gloria Fernandez
+
 Laura navarro
+
 Maria Virginia Rivas
