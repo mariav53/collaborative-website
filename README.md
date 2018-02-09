@@ -28,4 +28,4 @@ Laura navarro
 
 Maria Virginia Rivas
 
-[Repositorio original](https://adalab.github.io/c-s1-vleg/)
+[Repositorio original](https://github.com/Adalab/c-s1-vleg)
